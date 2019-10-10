@@ -160,5 +160,5 @@ Maintenant, nous allons initier notre controller ScrollMagic pour ainsi créer n
 Documentation ScrollMagic : http://scrollmagic.io/docs/  
 (Traduction en commentaires)
 
-Vous pouvez visualiser le resultat sur cette page :  
-Et directement cloner les fichier sur : 
+Vous pouvez visualiser le resultat sur cette page :  https://ti-k-sper.github.io/Tuto_scrollmagic/  
+Et directement cloner les fichier sur : https://github.com/ti-k-sper/Tuto_scrollmagic.git  
